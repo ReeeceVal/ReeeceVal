@@ -15,8 +15,10 @@
   <img src="assets/duckdb.png" alt="DuckDB" height="48" />
 </p>
 
-**Optimisation** · pymoo · NSGA-II · multi-objective formulation · metaheuristics
+**Optimisation** · pymoo · NSGA-II · multi-objective formulation · metaheuristics 
+
 **Geospatial** · H3 · OpenRouteService · QGIS · GeoPandas · kepler.gl
+
 **Data at scale** · Databricks · PySpark · DuckDB · pandas · NumPy
 
 <!--
