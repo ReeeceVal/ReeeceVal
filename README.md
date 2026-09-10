@@ -11,6 +11,8 @@
   </a>
   <img src="assets/h3.png" alt="H3" height="48" />
   <img src="assets/qgis.png" alt="QGIS" height="48" />
+  <img src="assets/geopandas.png" alt="GeoPandas" height="48" />
+  <img src="assets/duckdb.png" alt="DuckDB" height="48" />
 </p>
 
 **Optimisation** · pymoo · NSGA-II · multi-objective formulation · metaheuristics
