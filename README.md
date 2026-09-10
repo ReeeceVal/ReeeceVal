@@ -9,6 +9,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,postgres,git,gcp,firebase,latex,ts,vscode&perline=10" />
   </a>
+  <img src="assets/h3.png" alt="H3" height="48" />
+  <img src="assets/qgis.png" alt="QGIS" height="48" />
 </p>
 
 **Optimisation** · pymoo · NSGA-II · multi-objective formulation · metaheuristics
